@@ -5,7 +5,7 @@ import Form from "./components/Form";
 export default function App() {
   return (
     <div className='App'>
-      <h1>Volunteer Sign Up</h1>
+      <h1>Volunteer Sign Up Form</h1>
       <Form />
     </div>
   );
